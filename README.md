@@ -1,2 +1,3 @@
-# React_js_circle_progress_bar_with_bootstrap
-Created with CodeSandbox
+# Basic Example
+
+A simple [create-react-app](CRA-README.md) setup, showcasing one of the lastest React-Bootstrap components!
